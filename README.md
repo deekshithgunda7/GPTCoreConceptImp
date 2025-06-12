@@ -27,3 +27,5 @@ Basically these neural networks are trained to image recognations so we need to 
 We need to find cost function and gradient decent of that cost functions and negative of gradient decent give you actual value which is local minimum to determine the exact value
 
 Using back propagation we get gradient decent of the network
+
+lets start with implementation and learn concept while implementing..
