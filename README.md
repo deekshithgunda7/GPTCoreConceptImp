@@ -29,3 +29,5 @@ We need to find cost function and gradient decent of that cost functions and neg
 Using back propagation we get gradient decent of the network
 
 lets start with implementation and learn concept while implementing..
+
+lets start a lang grpah tutorial
